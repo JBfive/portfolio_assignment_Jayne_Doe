@@ -1,0 +1,96 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 970px;
+	background: linear-gradient(rgb(29, 14, 17),rgb(76, 57, 65),rgb(29, 14, 17)); ;
+	margin: 0px auto;
+
+}
+#header{
+	height: 50px;
+	background-color: #f5f5f5;
+	padding: 20px;
+}
+#main_content{
+
+
+	padding: 20px;
+}
+#footer{
+	height: 50px;
+	background-color: #f5f5f5;
+	text-align: center;
+
+}
+#personal{
+
+	padding: 20px;
+
+}
+.bar{
+	height: 30px;
+
+	background: linear-gradient(rgb(179, 179, 182), rgb(134, 134, 147), rgb(179, 179, 182));
+	padding: 10px;
+	color: #f5f5f5;
+}
+.bar2{
+	height: 30px;
+
+	background: linear-gradient(rgb(179, 179, 182), rgb(134, 134, 147), rgb(179, 179, 182));
+	font-size: small;
+	padding: 10px;
+	color: #f5f5f5;
+}
+.intro{
+
+
+	font-size: x-small;
+}
+.body{
+
+
+	font-size: x-small;
+}
+.pic{
+	display: inline-block;
+	height: 330px;
+	width: 400px;
+	vertical-align: top;
+	padding: 10px 0px;
+	margin: 0px 10px;
+
+}
+.about{
+	display: inline-block;
+	height: 330px;
+	width: 400px;
+	vertical-align: top;
+	padding: 10px 0px;
+	margin: 0px 10px;
+}
+.subcontents{
+	display: inline-block;
+	height: 330px;
+	width: 285px;
+	vertical-align: top;
+	padding: 10px 0px;
+	margin: 0px 10px;
+
+}
+.contact{
+
+}
+.social{
+	
+}
+h1, h3 {
+	display: inline-block;
+	
+}
+h3 {
+	
+	padding-left: 300px;
+}
